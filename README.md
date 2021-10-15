@@ -10,7 +10,8 @@
 
 This package contains dataset for plotting the
 [aal](https://www.sciencedirect.com/science/article/abs/pii/S1053811915006953?via%3Dihub)
-atlas ggseg and ggseg3d.
+atlas ggseg and ggseg3d. The template files were obtained from
+[faskowit/multiAtlasTT](https://github.com/faskowit/multiAtlasTT).
 
 Rolls, E. T., Joliot, M., & Tzourio-Mazoyer, N. (2015). Implementation
 of a new parcellation of the orbitofrontal cortex in the automated
