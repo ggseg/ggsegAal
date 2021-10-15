@@ -18,11 +18,12 @@ knitr::opts_chunk$set(
 # ggsegAal <img src='man/figures/logo.png' align="right" height="138.5" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/ggseg/ggsegAal/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegAal/actions)
 <!-- badges: end -->
 
-This package contains dataset for plotting the [aal](add url here) atlas ggseg and ggseg3d. 
+This package contains dataset for plotting the [aal](https://www.sciencedirect.com/science/article/abs/pii/S1053811915006953?via%3Dihub) atlas ggseg and ggseg3d. 
 
-Add reference here.
+Rolls, E. T., Joliot, M., & Tzourio-Mazoyer, N. (2015). Implementation of a new parcellation of the orbitofrontal cortex in the automated anatomical labeling atlas. Neuroimage, 122, 1-5.
 
 To learn how to use these atlases, please look at the documentation for [ggseg](https://ggseg.github.io/ggseg/) and [ggseg3d](https://ggseg.github.io/ggseg3d)
 

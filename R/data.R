@@ -16,7 +16,7 @@
 #' @references Rolls, E. T., Joliot, M., & Tzourio-Mazoyer, N. (2015). 
 #'     Implementation of a new parcellation of the orbitofrontal cortex in the automated anatomical labeling atlas. 
 #'     Neuroimage, 122, 1-5.
-#'     (\href{https://pubmed.ncbi.nlm.nih.gov/xxxxx/}{PubMed})
+#'     (\href{https://pubmed.ncbi.nlm.nih.gov/26241684/}{PubMed})
 #'     
 #' \itemize{
 #'  \item{aal}{ - aal atlas}
