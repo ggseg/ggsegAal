@@ -6,6 +6,9 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ggseg/ggsegAal/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegAal/actions)
+[![DOI](https://zenodo.org/badge/417464916.svg)](https://zenodo.org/badge/latestdoi/417464916)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/ggsegAal)](https://CRAN.R-project.org/package=ggsegAal)
 <!-- badges: end -->
 
 This package contains dataset for plotting the
@@ -46,6 +49,7 @@ remotes::install_github("ggseg/ggsegAal")
 
 ``` r
 library(ggseg)
+#> Warning: package 'ggseg' was built under R version 4.1.1
 #> Loading required package: ggplot2
 library(ggseg3d)
 library(ggsegAal)

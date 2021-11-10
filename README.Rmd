@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/ggseg/ggsegAal/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegAal/actions)
+[![DOI](https://zenodo.org/badge/417464916.svg)](https://zenodo.org/badge/latestdoi/417464916)
+[![CRAN status](https://www.r-pkg.org/badges/version/ggsegAal)](https://CRAN.R-project.org/package=ggsegAal)
 <!-- badges: end -->
 
 This package contains dataset for plotting the [aal](https://www.sciencedirect.com/science/article/abs/pii/S1053811915006953?via%3Dihub) atlas ggseg and ggseg3d. The template files were obtained from [faskowit/multiAtlasTT](https://github.com/faskowit/multiAtlasTT).

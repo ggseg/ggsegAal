@@ -1,7 +1,5 @@
 library(ggsegExtra)
-devtools::load_all("../ggsegExtra/")
-library(ggseg)
-library(ggseg3d)
+# devtools::load_all("../ggsegExtra/")
 library(dplyr) # for cleaning the atlas data efficiently
 library(tidyr) # for cleaning the atlas data efficiently
 
@@ -50,7 +48,7 @@ devtools::load_all(".")
 
 # Make 2d polygon ----
 aal <- make_ggseg3d_2_ggseg(aal_3d, 
-                            steps = 3:7,
+                            steps = 1:7,
                             tolerance = .5,
                             output_dir = here::here("data-raw/"))
 
