@@ -47,51 +47,17 @@ aal3_subcortical()
 #> Rendering: ✔ ggseg
 #> ✔ ggseg3d (meshes)
 #> ────────────────────────────────────────────────────────────────────────────────
-#> # A tibble: 43 × 3
-#>    hemi  region   label         
-#>    <chr> <chr>    <chr>         
-#>  1 left  caudate  Caudate_left  
-#>  2 right caudate  Caudate_right 
-#>  3 left  putamen  Putamen_left  
-#>  4 right putamen  Putamen_right 
-#>  5 left  thal lp  Thal_LP_left  
-#>  6 left  thal vpl Thal_VPL_left 
-#>  7 right thal vpl Thal_VPL_right
-#>  8 left  thal il  Thal_IL_left  
-#>  9 right thal il  Thal_IL_right 
-#> 10 left  thal mdm Thal_MDm_left 
-#> 11 right thal mdm Thal_MDm_right
-#> 12 left  thal lgn Thal_LGN_left 
-#> 13 right thal lgn Thal_LGN_right
-#> 14 left  thal pum Thal_PuM_left 
-#> 15 right thal pum Thal_PuM_right
-#> 16 left  thal pua Thal_PuA_left 
-#> 17 right thal pua Thal_PuA_right
-#> 18 left  thal pul Thal_PuL_left 
-#> 19 right thal pul Thal_PuL_right
-#> 20 left  vta      VTA_left      
-#> 21 right vta      VTA_right     
-#> 22 left  sn pc    SN_pc_left    
-#> 23 right sn pc    SN_pc_right   
-#> 24 left  sn pr    SN_pr_left    
-#> 25 right sn pr    SN_pr_right   
-#> 26 left  red n    Red_N_left    
-#> 27 right red n    Red_N_right   
-#> 28 left  pallidum Pallidum_left 
-#> 29 right pallidum Pallidum_right
-#> 30 left  thal av  Thal_AV_left  
-#> 31 right thal av  Thal_AV_right 
-#> 32 left  thal va  Thal_VA_left  
-#> 33 right thal va  Thal_VA_right 
-#> 34 right thal vl  Thal_VL_right 
-#> 35 left  thal vl  Thal_VL_left  
-#> 36 left  thal mdl Thal_MDl_left 
-#> 37 right thal mdl Thal_MDl_right
-#> 38 left  thal mgn Thal_MGN_left 
-#> 39 right thal mgn Thal_MGN_right
-#> 40 left  thal pui Thal_PuI_left 
-#> 41 right thal pui Thal_PuI_right
-#> 42 left  n acc    N_Acc_left    
-#> 43 right n acc    N_Acc_right   
+#>     hemi   region          label
+#> 1   left  caudate   Caudate_left
+#> 2  right  caudate  Caudate_right
+#> 3   left  putamen   Putamen_left
+#> 4  right  putamen  Putamen_right
+#> 5   left  thal lp   Thal_LP_left
+#> 6   left thal vpl  Thal_VPL_left
+#> 7  right thal vpl Thal_VPL_right
+#> 8   left  thal il   Thal_IL_left
+#> 9  right  thal il  Thal_IL_right
+#> 10  left thal mdm  Thal_MDm_left
+#> ... with 33 more rows
 if (FALSE) plot(aal3_subcortical()) # \dontrun{}
 ```
